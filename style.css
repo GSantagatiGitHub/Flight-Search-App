@@ -1,0 +1,16 @@
+.flex-1 {
+    flex: 1;
+  }
+
+.logo-container {
+    width: 140px;
+    margin: 20px auto;
+} 
+
+#logo {
+  width: 150px;
+}
+
+#search-button {
+  margin-bottom: 40px;
+}
